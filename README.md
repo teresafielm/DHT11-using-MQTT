@@ -3,12 +3,6 @@ Repositorio que contiene paso a paso de flow 7.
 
 En esta actividad se realiza la gráfica de los datos de humedad y temperatura con el sensor DHT11 a través de MQTT
 
-Autor: Hugo Escalpelo
-
-Enlaces del autor:
-
-https://github.com/codigo-iot/publicar-strings-json-mqtt-nodemcu-wifi/blob/main/nodemcu-mqtt-json/nodemcu-mqtt-json.ino
-
 Enlaces sugeridos:
 
 Biblioteca sugerida de Adafruit para el DHT11: https://www.arduino.cc/pro/hardware/product/portenta-machine-control
